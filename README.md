@@ -15,3 +15,15 @@ This repository contains my LeetCode solutions in Java. The goal is to strengthe
 - Hash Tables
 
 Solutions are added regularly as I solve new problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
