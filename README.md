@@ -23,10 +23,12 @@ Solutions are added regularly as I solve new problems.
 | ------- |
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,8 +37,13 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
