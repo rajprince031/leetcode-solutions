@@ -46,4 +46,12 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/rajprince031/leetcode-solutions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/rajprince031/leetcode-solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
