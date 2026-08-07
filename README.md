@@ -60,4 +60,16 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajprince031/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
