@@ -22,6 +22,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajprince031/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Hash Table
@@ -32,6 +33,7 @@ Solutions are added regularly as I solve new problems.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajprince031/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -54,4 +56,8 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rajprince031/leetcode-solutions/tree/master/0061-rotate-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rajprince031/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
