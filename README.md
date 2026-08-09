@@ -29,6 +29,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ Solutions are added regularly as I solve new problems.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -72,4 +74,8 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
