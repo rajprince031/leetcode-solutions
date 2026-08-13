@@ -11,15 +11,18 @@ class Solution {
             }
             else product *= nums[i];
         }
-        int[] answer = new int[n];
-        if(zeroCount > 1) return answer;
+        if(zeroCount > 1) {
+            Arrays.fill(nums, 0);
+            return nums;
+        }
         if(zeroCount == 1) {
-            answer[idx] = product;
-            return answer;
+            Arrays.fill(nums, 0);
+            nums[idx] = product;
+            return nums;
         }
         for(int i=0; i<n; i++){
-            answer[i] = product / nums[i];   
+            nums[i] = product / nums[i];   
         }
-        return answer;
+        return nums;
     }
 }
