@@ -29,6 +29,7 @@ Solutions are added regularly as I solve new problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/rajprince031/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rajprince031/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/rajprince031/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -37,6 +38,7 @@ Solutions are added regularly as I solve new problems.
 | ------- |
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
@@ -54,6 +56,7 @@ Solutions are added regularly as I solve new problems.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajprince031/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rajprince031/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Counting
 |  |
