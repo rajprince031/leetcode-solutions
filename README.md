@@ -73,6 +73,7 @@ Solutions are added regularly as I solve new problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/rajprince031/leetcode-solutions/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
@@ -81,6 +82,7 @@ Solutions are added regularly as I solve new problems.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rajprince031/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/rajprince031/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -100,6 +102,7 @@ Solutions are added regularly as I solve new problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajprince031/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -115,4 +118,8 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rajprince031/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
