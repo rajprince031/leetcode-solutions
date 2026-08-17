@@ -40,6 +40,7 @@ Solutions are added regularly as I solve new problems.
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/rajprince031/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -72,6 +73,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rajprince031/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/rajprince031/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,9 +122,14 @@ Solutions are added regularly as I solve new problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rajprince031/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/rajprince031/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rajprince031/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
