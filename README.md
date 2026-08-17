@@ -39,6 +39,7 @@ Solutions are added regularly as I solve new problems.
 | ------- |
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -51,6 +52,7 @@ Solutions are added regularly as I solve new problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
@@ -85,6 +87,7 @@ Solutions are added regularly as I solve new problems.
 | [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rajprince031/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/rajprince031/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
