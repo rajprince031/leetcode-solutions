@@ -27,14 +27,9 @@ class Solution {
         if(node == null) return null;
         Node newNode = new Node(node.val);
         map.put(newNode.val, newNode);
-        //System.out.println(newNode.val);
         for(Node nn : node.neighbors){
-            if(map.containsKey(nn.val)){
-                newNode.neighbors.add(map.get(nn.val));
-            }else{
-                dfs(nn, map);
-                newNode.neighbors.add(map.get(nn.val));
-            }
+            if(!map.containsKey(nn.val)) dfs(nn, map);
+            newNode.neighbors.add(map.get(nn.val));
         }
         return newNode;
     }
