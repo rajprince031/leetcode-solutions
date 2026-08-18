@@ -33,6 +33,7 @@ Solutions are added regularly as I solve new problems.
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/rajprince031/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ Solutions are added regularly as I solve new problems.
 | [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,4 +147,5 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
