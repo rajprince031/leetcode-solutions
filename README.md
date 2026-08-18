@@ -40,6 +40,7 @@ Solutions are added regularly as I solve new problems.
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/rajprince031/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -132,4 +133,16 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rajprince031/leetcode-solutions/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
