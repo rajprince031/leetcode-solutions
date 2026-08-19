@@ -1,8 +1,6 @@
 class Solution {
-    public int findCenter(int[][] edges) {
-        int[] fe = edges[0];
-        int[] se = edges[1];
-        if(fe[0] == se[0] || fe[0] == se[1]) return fe[0];
-        return fe[1];
+    public int findCenter(int[][] arr) {
+        if(arr[0][0] == arr[1][0] || arr[0][0] == arr[1][1]) return arr[0][0];
+        return arr[0][1];
     }
 }
