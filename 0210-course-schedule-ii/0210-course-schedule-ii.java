@@ -26,11 +26,9 @@ class Solution {
         for(int ele : arr[idx]){
             if(!vis[ele]) isPossible = solve(arr, list, ls, vis, ele, isPossible);
             else {
-                System.out.println("imp" +vis[ele] + " "+ ele);
                 if(!list.contains(ele)) return false;
             }
         }
-        System.out.println(idx +" "+vis[idx]);
         if(!list.contains(idx)) ls.add(idx);
         list.add(idx);
         return isPossible;
