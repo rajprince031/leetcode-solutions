@@ -35,6 +35,7 @@ Solutions are added regularly as I solve new problems.
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/rajprince031/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rajprince031/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,4 +149,9 @@ Solutions are added regularly as I solve new problems.
 | ------- |
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rajprince031/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/rajprince031/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
