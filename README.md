@@ -29,6 +29,7 @@ Solutions are added regularly as I solve new problems.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/rajprince031/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rajprince031/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -114,6 +115,7 @@ Solutions are added regularly as I solve new problems.
 | [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajprince031/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -142,32 +144,42 @@ Solutions are added regularly as I solve new problems.
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rajprince031/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rajprince031/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rajprince031/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajprince031/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajprince031/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajprince031/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajprince031/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
