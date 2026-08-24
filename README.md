@@ -23,6 +23,7 @@ Solutions are added regularly as I solve new problems.
 | ------- |
 | [0001-two-sum](https://github.com/rajprince031/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajprince031/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rajprince031/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajprince031/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/rajprince031/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajprince031/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rajprince031/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/rajprince031/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajprince031/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
@@ -122,6 +124,7 @@ Solutions are added regularly as I solve new problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajprince031/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Trie
 |  |
