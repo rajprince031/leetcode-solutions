@@ -29,6 +29,7 @@ Solutions are added regularly as I solve new problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajprince031/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajprince031/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/rajprince031/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/rajprince031/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rajprince031/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -148,6 +149,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/rajprince031/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rajprince031/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -155,6 +157,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/rajprince031/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rajprince031/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -171,6 +174,7 @@ Solutions are added regularly as I solve new problems.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajprince031/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajprince031/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
@@ -188,4 +192,8 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rajprince031/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
