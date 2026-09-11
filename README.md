@@ -39,6 +39,7 @@ Solutions are added regularly as I solve new problems.
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/rajprince031/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajprince031/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajprince031/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -54,6 +55,7 @@ Solutions are added regularly as I solve new problems.
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/rajprince031/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajprince031/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,4 +202,12 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajprince031/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajprince031/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/rajprince031/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
