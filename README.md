@@ -34,6 +34,7 @@ Solutions are added regularly as I solve new problems.
 | [0303-range-sum-query-immutable](https://github.com/rajprince031/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rajprince031/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/rajprince031/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -67,6 +68,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajprince031/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/rajprince031/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
