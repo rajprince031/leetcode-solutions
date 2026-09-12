@@ -1,49 +1,53 @@
 class Solution {
-    public boolean compare(HashMap<Character, Integer> arr, HashMap<Character, Integer> brr){
-        for(Map.Entry<Character, Integer> ele : arr.entrySet()){
-            char key = ele.getKey();
-            int value = ele.getValue();
-            if(!brr.containsKey(key)) return false;
-            if(brr.get(key) < value) return false;
-            
-        }
-        return true;
-    }
     public String minWindow(String s, String t) {
-        int n1 = s.length();
-        int n2 = t.length();
-        if(n2 > n1) return "";
-        HashMap<Character, Integer> arr = new HashMap<>();
-        HashMap<Character, Integer> brr = new HashMap<>();
-        for(int i=0; i<n2; i++) {
-            arr.put(t.charAt(i),arr.getOrDefault(t.charAt(i),0)+1);
-        }
+        int n1 = t.length();
+        int n2 = s.length();
+        if(n1 > n2 ) return "";
+        HashMap<Character, Integer> map1 = countMap(t);
+        HashMap<Character, Integer> map2 = new HashMap<>();
         int low = 0;
         int high = 0;
-        int maxLength = n1;
-        String ans = "";
-        while(high != n1){
-            char hch = s.charAt(high);
-            brr.put(hch, brr.getOrDefault(hch,0)+1);
-            high++;
-                //System.out.println(compare(arr,brr));
-                //System.out.println("high"+" "+hch);
-            while(compare(arr, brr) && low <= high){
-                char lch = s.charAt(low);
-                //System.out.println("low"+" "+lch);
-                int len = high - low;
-                if(len <= maxLength){
-                    ans = s.substring(low, high);
-                    maxLength = ans.length();
-                }
-                //System.out.println("ans " + ans);
-                brr.put(lch, brr.getOrDefault(lch,0)-1);
-                if(brr.get(lch) == 0) brr.remove(lch);
+        StringBuilder sb = new StringBuilder("");
+        String ans = s;
+        boolean flag = true;
+        while(high != n2){
+            if(!compare(map1, map2)){
+                char ch = s.charAt(high);
+                map2.put(ch, map2.getOrDefault(ch, 0)+1);
+                sb.append(ch);
+                high++;
+            }else{
+                flag = false;
+                if(sb.length() <= ans.length()) ans = sb.toString();
+                char ch = s.charAt(low);
+                map2.put(ch, map2.get(ch)-1);
+                if(map2.get(ch) == 0) map2.remove(ch);
+                sb.deleteCharAt(0);
                 low++;
             }
-            
-            //System.out.println("maxLength  "+ maxLength);
-        } 
-        return ans;    
+        }
+        while(compare(map1, map2)){
+            flag = false;
+            if(sb.length() < ans.length()) ans = sb.toString();
+            char ch = s.charAt(low);
+            map2.put(ch, map2.get(ch)-1);
+            if(map2.get(ch) == 0) map2.remove(ch);
+            sb.deleteCharAt(0);
+            low++;
+        }
+        return (flag ? "" : ans);
+    }
+    public HashMap<Character, Integer> countMap(String s){
+        HashMap<Character, Integer> map = new HashMap<>();
+        for(char ch : s.toCharArray()){
+            map.put(ch, map.getOrDefault(ch, 0)+1);
+        }
+        return map;
+    }
+    public boolean compare(HashMap<Character, Integer> map1, HashMap<Character, Integer> map2){
+        for(Character ch : map1.keySet()){
+            if(!map2.containsKey(ch) || map1.get(ch) > map2.get(ch)) return false;
+        }
+        return true;
     }
 }
