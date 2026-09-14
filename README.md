@@ -54,6 +54,7 @@ Solutions are added regularly as I solve new problems.
 | [0133-clone-graph](https://github.com/rajprince031/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/rajprince031/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/rajprince031/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/rajprince031/leetcode-solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rajprince031/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rajprince031/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -101,6 +102,7 @@ Solutions are added regularly as I solve new problems.
 | [0061-rotate-list](https://github.com/rajprince031/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/rajprince031/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajprince031/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/rajprince031/leetcode-solutions/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rajprince031/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/rajprince031/leetcode-solutions/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajprince031/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rajprince031/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -222,4 +225,5 @@ Solutions are added regularly as I solve new problems.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajprince031/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rajprince031/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
